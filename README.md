@@ -7,7 +7,7 @@
 - 🤝 I’m looking forward to collaborating on projects that are meaningful for society.
 - 📧 Don’t hesitate to reach me by e-mail (zilmakarlla@gmail.com) if you are a student looking for help or a company that wants to offer me a job.
 
-![https://github.com/zilmabezerra/portfolio](portfolio_.png)
+[![](portfolio_.png)](https://github.com/zilmabezerra/portfolio)
 
 <!---
 zilmabezerra/zilmabezerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
