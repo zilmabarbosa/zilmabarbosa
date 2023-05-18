@@ -2,7 +2,7 @@
 
 👋🏼 Hi, I’m Zilma Bezerra! As a multilingual professional (Portuguese, English and Spanish) with over 10 years of experience in Marketing and Advertising, I have now set my sights on Data Analysis and Project Management. Recently, I successfully completed a Higher Diploma in Science in **Data Analytics** for Business with **First-class Honours** 🥇, and I have also taken a Google Project Management course. I am convinced that these three areas of expertise can be combined to great effect in helping businesses thrive.
 
-🧩 My passion for solving puzzles and my natural organisational skills have led me to pursue a career in one of those areas, and I am committed to continuous learning in order to stay up-to-date with the latest developments in this fields.
+🧩 My passion for solving puzzles and my natural organisational skills have led me to pursue a career in one of those areas, and I am committed to continuous learning in order to stay up-to-date with the latest developments in these fields.
 
 - 🥰 I’m interested in coffee, books, cats and dancing.
 - 🌱 I’m always looking for something new to learn.
