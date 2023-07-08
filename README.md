@@ -1,13 +1,16 @@
 # About me 📂
 
-👋🏼 Hi, I’m Zilma Bezerra! As a multilingual professional (Portuguese, English and Spanish) with over 10 years of experience in Marketing and Advertising, I have now set my sights on Data Analysis and Project Management. Recently, I successfully completed a Higher Diploma in Science in **Data Analytics** for Business with **First-class Honours** 🥇, and I have also taken a Google Project Management course. I am convinced that these three areas of expertise can be combined to great effect in helping businesses thrive.
+👋🏼 Hi, I’m Zilma, a multilingual and versatile professional, with a Bachelor's Degree in Advertising, an MBA in Marketing, a Higher Diploma in Data Analytics, a Project Management Certificate, and a diverse set of skills developed throughout over 15 years of experience. I believe that these three areas of expertise can be combined to significant effect in helping businesses thrive.
 
-🧩 My passion for solving puzzles and my natural organisational skills have led me to pursue a career in one of those areas, and I am committed to continuous learning in order to stay up-to-date with the latest developments in these fields.
+- 🥇 First-class Honours Degree in Data Analytics.
+- 🧩 An inquiring mind committed to continuous learning.
+- 🗣️ Fluent in Portuguese, English and Spanish.
+- 🌱 Always looking for something new to learn.
+- 🤝 Looking forward to collaborating on projects that are meaningful for society.
 
-- 🥰 I’m interested in coffee, books, cats and dancing.
-- 🌱 I’m always looking for something new to learn.
-- 🤝 I’m looking forward to collaborating on projects that are meaningful for society.
-- 📧 Don’t hesitate to reach me by e-mail (zilmakarlla@gmail.com) if you are a student looking for help or a company that wants to offer me a job.
+📧 Don’t hesitate to contact me if you are a student looking for help or a company that wants to offer me a job:
+E-mail: zilmakarlla@gmail.com
+LinkedIn: [linkedin.com/in/zilmabarbosa](https://linkedin.com/in/zilmabarbosa)
 
 [![](portfolio_.png)](https://github.com/zilmabezerra/portfolio)
 
