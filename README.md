@@ -9,8 +9,8 @@
 - 🤝 Looking forward to collaborating on projects that are meaningful for society.
 
 📧 Don’t hesitate to contact me if you are a student looking for help or a company that wants to offer me a job:
-E-mail: zilmakarlla@gmail.com
-LinkedIn: [linkedin.com/in/zilmabarbosa](https://linkedin.com/in/zilmabarbosa)
+- E-mail: zilmakarlla@gmail.com
+- LinkedIn: [linkedin.com/in/zilmabarbosa](https://linkedin.com/in/zilmabarbosa)
 
 [![](portfolio_.png)](https://github.com/zilmabezerra/portfolio)
 
